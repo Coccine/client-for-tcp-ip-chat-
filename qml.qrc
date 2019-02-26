@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>Page2Form.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>about.qml</file>
+        <file>imges/Albert_Einstein.jpg</file>
+        <file>imges/Ernest_Hemingway.jpg</file>
+        <file>imges/Hans_Gude.jpg</file>
+        <file>main.cpp</file>
+        <file>HomeForm.qml</file>
+    </qresource>
+</RCC>
